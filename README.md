@@ -1,0 +1,1 @@
+This repository was created as I was having difficulites getting my database and my mvc project to connect and interact. To keep on schedule i had to redo the whole thing but starting with database first. I copy and pasted from my previous problem all of the other MVC to keep it relevant but this was done to help with the scaffolding.
